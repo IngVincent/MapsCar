@@ -1,0 +1,1783 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.9106445,20.7811584 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Acatic",
+    "Nombre del CAC":"ACATIC",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle General Andrés Figueroa , 45, Pueblo Acatic, 45470",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5946503,20.4251137 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Acatlán de Juárez",
+    "Nombre del CAC":"ACATLAN DE JUAREZ",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Cuauhtemoc , 140, Colonia Acatlan de Juárez, 45700",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.9744415,20.7055073 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ahualulco de Mercado",
+    "Nombre del CAC":"AHUALULCO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle J. Ma. Mercado , 226, Colonia Ahualulco de Mercado Centro, 46730",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7286987,20.8323994 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Amatitán",
+    "Nombre del CAC":"AMATITAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Miguel Hidalgo , 3, Pueblo Amatitan, 45380",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0427933,20.5483723 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ameca",
+    "Nombre del CAC":"AMECA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Gutiérrez, 76, Colonia Ameca Centro, 46600",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.3548889,20.6942387 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Arandas",
+    "Nombre del CAC":"AGENCIA ARANDAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Leon Bañuelos, 565, Colonia Arandas Centro, 47180",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4946747,20.4159374 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Atenguillo",
+    "Nombre del CAC":"ATENGUILLO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Progreso , 6, Pueblo Atenguillo, 48100",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5226746,20.5461292 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Atotonilco el Alto",
+    "Nombre del CAC":"AGENCIA ATOTONILCO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Santos Degollado, 902, Colonia San Felipe, 47750",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3665466,19.7725143 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Autlán de Navarro",
+    "Nombre del CAC":"AUTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Antonio Borbón, 40, Colonia Autlán de Navarro Centro, 48900",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.3268356,20.5232067 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ayotlán",
+    "Nombre del CAC":"AYOTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Carretera Gonzalez Gallo , 195, Pueblo Ayotlán, 47930",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3473587,20.1280537 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ayutla",
+    "Nombre del CAC":"AYUTLA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Libertad , 30, Pueblo Ayutla, 48050",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.1882248,20.2971058 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Chapala",
+    "Nombre del CAC":"CHAPALA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 1a. Privada de Zaragoza , 12, Colonia Chapala Centro, 45900",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.1228943,20.3919258 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Chapala",
+    "Nombre del CAC":"ATOTONILQUILLO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Ricardo Flores Magon , 1, Pueblo Atotonilquillo, 45930",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5729523,19.2412148 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Cihuatlán",
+    "Nombre del CAC":"AGENCIA CIHUATLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 18 MARZO Y MOCTEZUMA, S/N, Colonia Cihuatlán Centro, 48970",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.8248749,20.3623009 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Cocula",
+    "Nombre del CAC":"COCULA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Juárez, 236A, Colonia Cocula Centro, 48500",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2631378,22.115696 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Colotlán",
+    "Nombre del CAC":"Colotlán",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Zaragoza , 97, Colonia Colotlan Centro, 46200",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.0227966,20.97365 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Cuquío",
+    "Nombre del CAC":"CUQUIO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle independencia, 155, Ciudad Cuquio, 45480",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2182236,19.8062553 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"El Grullo",
+    "Nombre del CAC":"EL GRULLO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Urbano Rosales , 96, Colonia El Grullo Centro, 48740",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.1618042,20.5091953 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"El Salto",
+    "Nombre del CAC":"EL SALTO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Reforma, 135, Pueblo El Salto Centro, 45680",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.2430496,21.5218201 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Encarnación de Díaz",
+    "Nombre del CAC":"Encarnación de Díaz",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida HIDALGO  , 601, Ciudad Encarnación de Diaz, 47270",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.0792313,20.7652359 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Etzatlán",
+    "Nombre del CAC":"ETZATLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Colón, 325, Colonia Etzatlan Centro, 46500",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3473282,20.6697044 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"16 DE SEPTIEMBRE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida 16 de Septiembre, 455, Colonia Guadalajara Centro, 44100",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3649292,20.6627655 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"VENEZUELA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Av. Washington esq. Venezuela, S/N, Colonia Moderna, 44190",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3481827,20.7033672 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"TRANSITO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Felix Palavicini , 1881, Colonia Guadalupana Sur, 44220",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.6574173,20.7198563 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"ATEMAJAC",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Felix Palavicini , 1881, Colonia Guadalupana Sur, 44220",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2033234,20.4045792 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"ALAMEDA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle HUMBOLDT, 160, Fraccionamiento Santa Elena Alcalde Oriente, 44220",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3158951,20.7199459 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"LIBERTAD",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Periférico Periferico Norte, 110, Colonia Esperanza, 44300",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3273392,20.6797371 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"BEATRIZ HERNANDEZ",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Beatriz Hernandez esq. Federacion, 550, Barrio San Felipe, 44380",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3246765,20.6516495 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"LA BANDERA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calzada revolucion, 0, Barrio Analco, 44450",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3952332,20.6732273 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"MINERVA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Av. Vallarta , 3233, Fraccionamiento Residencial Del Bosque, 44510",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4310684,20.6793289 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"PLAZA GALERIAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Rafael Sanzio, 150, Fraccionamiento Residencial Del Bosque, 44510",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3863983,20.6492176 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"ARBOLEDAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Av. Paseo de la Arboleda , 21, Zona comercial Comercial Abastos, 44530",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4007721,20.6507759 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"MODULO PLAZA DEL SOL",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida López Mateos Sur, 2375, Zona comercial Comercial Abastos, 44530",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3710861,20.6872044 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"AMERICAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Gral. Eulogio Parra , 1760, Barrio Santa Teresita, 44600",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3008194,20.6807232 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"OBLATOS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Ventura Anaya y Santo Tomas, S/N, Colonia Popular, 44710",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3247299,20.6516323 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"PARADERO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Boulevard Gral. Marcelino Garcia Barragan , 1714, Colonia Lomas Del Paradero, 44840",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3615189,20.6485729 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"PLAZA LAS TORRES",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida 8 de julio, 1896, Colonia 8 de Julio, 44910",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3838806,20.6279259 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"COLON",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle COLON, 3591, Colonia López Portillo, 44960",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3641968,20.6270676 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"INDUSTRIAL",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Bartolomeo Gutiérrez, 2930, Colonia Echeverría 1a. Sección, 44970",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.321106,20.6204166 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Guadalajara",
+    "Nombre del CAC":"REVOLUCION",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Plan de San Luis , 3220, Colonia Revolucionaria, 44985",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2088242,22.36479 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Huejúcar",
+    "Nombre del CAC":"Huejúcar",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Revolución Mexicana , 42, Ciudad Huejúcar, 46260",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2407684,20.8629646 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ixtlahuacán del Río",
+    "Nombre del CAC":"IXTLAHUACAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Independencia , 155, Pueblo Ixtlahuacán del Río, 45260",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.475296,21.1664696 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Jalostotitlán",
+    "Nombre del CAC":"JALOSTOTITLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle La luz , 31, Colonia Jalostotitlán Centro, 47120",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7090225,20.2911549 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Jamay",
+    "Nombre del CAC":"JAMAY",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Morelos , 127, Colonia Jamay Centro, 47900",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.3411789,21.9655209 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Jesús María",
+    "Nombre del CAC":"JESUS MARIA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Aldama, 17, Pueblo Jesús Maria, 47950",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4248047,20.283783 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Jocotepec",
+    "Nombre del CAC":"JOCOTEPEC",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle José Santana, 281, Colonia Jocotepec Centro, 45800",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.479393,20.801033 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Jocotepec",
+    "Nombre del CAC":"TESISTAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Melchor Ocampo , 847, Pueblo San Pedro Tesistán, 45830",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5530396,20.2933712 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"La Barca",
+    "Nombre del CAC":"LA BARCA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Paseo Río Concepción, 26, Fraccionamiento Loma Bonita, 47913",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.6421051,19.4837036 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"La Huerta",
+    "Nombre del CAC":"AGENCIA LA HUERTA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 20 DE NOVIEMBRE, 3, Pueblo La Huerta, 48850",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.1551132,20.0041676 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"La Manzanilla de la Paz",
+    "Nombre del CAC":"LA MANZANILLA DE LA PAZ",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Juárez , 119, Pueblo La Manzanilla de La Paz, 49460",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.9262314,21.3614445 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Lagos de Moreno",
+    "Nombre del CAC":"Lagos de Moreno",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hernando Martell , 64, Colonia El Calvario, 47420",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.979187,20.9090519 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Magdalena",
+    "Nombre del CAC":"MAGDALENA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Independencia , 89, Colonia Magdalena Centro, 46470",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7957382,20.5303154 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Mascota",
+    "Nombre del CAC":"MASCOTA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hidalgo , 475, Ciudad Mascota, 46900",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.0189514,19.9188728 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Mazamitla",
+    "Nombre del CAC":"MAZAMITLA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle HIDALGO , 30, Pueblo Mazamitla, 49500",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7797546,21.2675686 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Mexticacán",
+    "Nombre del CAC":"MEXTICACAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Morelos, 249A, Colonia Mexticacán, 47340",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7691574,20.3572235 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ocotlán",
+    "Nombre del CAC":"OCOTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Guadalupe Victoria, 373, Colonia Ferrocarril, 47830",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7691574,20.3572235 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ocotlán",
+    "Nombre del CAC":"OCOTLAN CENTRO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle ALVARO OBREGON, 0, Colonia Ferrocarril, 47830",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.5902634,21.8730946 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Ojuelos de Jalisco",
+    "Nombre del CAC":"Ojuelos",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida MEXICO, 30, Pueblo Ojuelos de Jalisco, 47540",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3887634,19.2474861 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Pihuamo",
+    "Nombre del CAC":"PIHUAMO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hylsa, 20, Colonia Las Encinas, 49870",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.9303818,20.3799286 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Poncitlán",
+    "Nombre del CAC":"PONCITLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Miguel Montes , 277, Colonia El Santuario, 45957",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2209015,20.6529408 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Puerto Vallarta",
+    "Nombre del CAC":"EL PITILLAL",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Independencia , 128, Colonia Pitillal Centro, 48290",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2304001,20.6166019 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Puerto Vallarta",
+    "Nombre del CAC":"VALLARTA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Colombia , 1118, Colonia 5 de Diciembre, 48350",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7659149,19.7497444 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Gabriel",
+    "Nombre del CAC":"SAN GABRIEL",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hidalgo , 40, Ciudad San Gabriel, 49700",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.3304672,21.2513771 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Juan de los Lagos",
+    "Nombre del CAC":"SAN JUAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Alemania, 107, Colonia La Martinica, 47020",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.1812134,21.0118675 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Julián",
+    "Nombre del CAC":"SAN JULIAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Onofre García Pérez, 5, Colonia San Julian Centro, 47170",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.9287567,20.4351654 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Martín Hidalgo",
+    "Nombre del CAC":"SAN MARTIN HIDALGO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Venustiano Carranza , 11, Ciudad San Martin Hidalgo, 46770",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.4025345,21.030941 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Miguel el Alto",
+    "Nombre del CAC":"SAN MIGUEL EL ALTO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Pasaje González Gallo, 15, Colonia San Miguel El Alto Centro, 47140",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3103027,20.6375599 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Pedro Tlaquepaque",
+    "Nombre del CAC":"TLAQUEPAQUE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Reforma , 42, Colonia Tlaquepaque Centro, 45500",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2811279,20.6300602 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Pedro Tlaquepaque",
+    "Nombre del CAC":"CAMICHINES",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Malecón y Niños Héroes, 0, Fraccionamiento Camichines Residencial 1ra. Sección, 45540",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3644562,20.5706806 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Pedro Tlaquepaque",
+    "Nombre del CAC":"TOLUQUILLA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Av. Adolfo Horn, 3513, Pueblo Toluquilla, 45610",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8528595,20.7612572 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"San Sebastián del Oeste",
+    "Nombre del CAC":"SAN SEBASTIAN DEL OESTE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Cuauhtémoc , 47, Pueblo San Sebastián del Oeste, 46990",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5995255,19.8833656 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Sayula",
+    "Nombre del CAC":"SAYULA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Vallarta , 15, Colonia Sayula Centro, 49300",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7026825,20.655302 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tala",
+    "Nombre del CAC":"TALA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hidalgo, 148, Colonia Tala Centro, 45300",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8236694,20.3819637 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Talpa de Allende",
+    "Nombre del CAC":"TALPA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 5 de mayo , 25, Colonia Talpa de Allende Centro, 48200",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2530975,19.6744919 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tamazula de Gordiano",
+    "Nombre del CAC":"TAMAZULA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Javier Mina Oriente, 94, Colonia Tamazula de Gordiano Centro, 49650",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7602844,19.9461155 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tapalpa",
+    "Nombre del CAC":"TAPALPA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Matamoros, 202, Ciudad Tapalpa, 49340",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3080673,19.4697418 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tecalitlán",
+    "Nombre del CAC":"TECALITLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Ocampo, 6, Colonia Tecalitlán Centro, 49900",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.042366,20.1938381 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tecolotlán",
+    "Nombre del CAC":"TECOLOTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Juárez , 492, Ciudad Tecolotlan, 48540",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5744247,21.4387417 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Teocaltiche",
+    "Nombre del CAC":"TEOCALTICHE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Galeana , 5, Colonia Teocaltiche Centro, 47200",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3764191,20.0934944 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Teocuitatlán de Corona",
+    "Nombre del CAC":"TEOCUITATLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Prisciliano Sanchez , 79, Pueblo Teocuitatlan de Corona, 49250",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7678528,20.8216152 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tepatitlán de Morelos",
+    "Nombre del CAC":"TEPATITLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle González Gallo , 340, Colonia Tepatitlán de Morelos Centro, 47600",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5910416,20.8208809 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tepatitlán de Morelos",
+    "Nombre del CAC":"CAPILLA DE GUADALUPE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Virginia Gutiérrez, 50, Pueblo Capilla de Guadalupe, 47700",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.8358688,20.8833027 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tequila",
+    "Nombre del CAC":"TEQUILA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Sixto Gorjon , 113, Ciudad Tequila Centro, 46400",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.044548,20.1609306 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tizapán el Alto",
+    "Nombre del CAC":"TIZAPAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle INDEPENDENCIA , 76, Colonia Tizapan El Alto, 49400",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3848038,20.5259495 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tlajomulco de Zúñiga",
+    "Nombre del CAC":"CAC SANTA FE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Santa Elena y av Concepción, 33, Colonia Jardines de Tlajomulco, 45640",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4462662,20.4763641 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tlajomulco de Zúñiga",
+    "Nombre del CAC":"TLAJOMULCO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Juárez Norte , 52, Colonia Tlajomulco Centro, 45640",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4470139,20.5510941 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tlajomulco de Zúñiga",
+    "Nombre del CAC":"SANTA ANITA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Allende , 67, Fraccionamiento Nueva Galicia Residencial, 45645",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.9156418,19.601965 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tolimán",
+    "Nombre del CAC":"TOLIMAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Alejo Lázaro , 2, Pueblo Toliman, 49750",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2539368,19.9362431 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tomatlán",
+    "Nombre del CAC":"TOMATLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Galeana , 405, Pueblo Tomatlán, 48450",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2445755,20.6312218 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tonalá",
+    "Nombre del CAC":"TONALA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Periférico Periférico , 301, Colonia Lomas de Tonalá, 45400",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.7949219,20.5414715 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tototlán",
+    "Nombre del CAC":"TOTOTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hidalgo Oriente , 78, Colonia Tototlan Centro, 47730",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3754807,19.5556507 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Tuxpan",
+    "Nombre del CAC":"TUXPAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Reforma, 12, Colonia Tuxpan Centro, 49800",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.2696762,19.9574413 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Unión de Tula",
+    "Nombre del CAC":"UNION DE TULA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Jalisco poniente , 155, Ciudad Unión de Tula, 48000",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.6158676,21.0108528 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Valle de Guadalupe",
+    "Nombre del CAC":"VALLE DE GUADALUPE",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Lino Martínez , 66, Colonia Valle de Guadalupe, 47380",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5925217,21.9808292 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Villa Guerrero",
+    "Nombre del CAC":"Villa Guerrero",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle C. MATAMOROS , 118, Ciudad Villa Guerrero, 46100",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.6954269,21.8529778 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Villa Hidalgo",
+    "Nombre del CAC":"Villa Hidalgo",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida PROL COLON, 0, Colonia Buenos Aires, 47253",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.8850937,21.1781387 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Yahualica de González Gallo",
+    "Nombre del CAC":"YAHUALICA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Hidalgo , 68, Colonia Yahualica de Gonzalez Gallo Centro, 47300",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5652313,20.2282314 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zacoalco de Torres",
+    "Nombre del CAC":"ZACOALCO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Pino Suárez , 73, Colonia Zacoalco de Torres Centro, 45750",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4281769,20.6406422 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"JUAREZ",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Felipe Ruvalcaba, 5550, Colonia Paseos del Sol, 45079",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2951813,20.4215794 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"PLAZA ANDARES",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Patria, 4965, Colonia Puerta de Hierro, 45116",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4185867,20.6889782 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"PLAZA AMISTAD",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Av. Patria, 600, Colonia La Patria Universidad, 45119",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.405777,20.7092495 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"PLAZA PABELLON",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Acueducto, 2380, Colonia Bosques de Zapopan, 45130",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4082794,20.7284241 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"MARGARITA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Sta. Cecilia esq. Santa Esther, S/N, Colonia Santa Margarita, 45140",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3647537,20.736845 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapopan",
+    "Nombre del CAC":"TABACHINES",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Paseo de los Alerces esq. Paseos de las Araucarias, 1181, Colonia Tabachines, 45188",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4182358,19.6275558 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapotiltic",
+    "Nombre del CAC":"ZAPOTILTIC",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Nicolas Bravo , 4, Colonia Zapotiltic Centro, 49600",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4634705,19.7080669 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapotlán el Grande",
+    "Nombre del CAC":"CD GUZMAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Federico del Toro , 185, Colonia Ciudad Guzmán Centro, 49000",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.0812607,20.6170864 ]
+    },
+    "properties": {
+    "Estado":"Jalisco",
+    "Municipio":"Zapotlanejo",
+    "Nombre del CAC":"ZAPOTLANEJO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Camino a Santa Clara , 240, Ciudad Zapotlanejo, 45430",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2063675,21.8109112 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Acaponeta",
+    "Nombre del CAC":"ACAPONETA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Prolongación Morelos , 147, Colonia Acaponeta Centro, 63430",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.483139,21.0505219 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Ahuacatlán",
+    "Nombre del CAC":"AHUACATLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Oaxaca , 29, Colonia Ahuacatlán, 63920",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4040298,20.8077641 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Amatlán de Cañas",
+    "Nombre del CAC":"AMATLAN DE CA-AS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Morelos esq. Guerrero , S/N, Pueblo Amatlán de Cañas, 63960",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1933899,20.8152409 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Bahía de Banderas",
+    "Nombre del CAC":"SAN JUAN DE ABAJO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Lazáro Cárdenas , 205, Colonia San Juan de Abajo, 63730",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3416138,20.7586975 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Bahía de Banderas",
+    "Nombre del CAC":"BUCERIAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Héroes de Nacozari, 39, Colonia Loma Bonita, 63732",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.89991,21.2398396 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Compostela",
+    "Nombre del CAC":"COMPOSTELA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Zaragoza esq. Gral. Rocha, 0, Colonia Compostela Centro, 63700",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.138092,21.1789722 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Compostela",
+    "Nombre del CAC":"LAS VARAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Lopez Mateos esq. Tlaxcala, S/N, Colonia Las Varas Centro, 63715",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2498398,21.0363464 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Compostela",
+    "Nombre del CAC":"LA PEÑITA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Bahía de Guaymas , 26, Colonia La Peñita de Jaltemba Centro, 63720",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1453781,21.9495907 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Del Nayar",
+    "Nombre del CAC":"JESUS MARIA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 1 esq. Calle 37, 0, Ejido Potrero de la Palmita, 63538",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3775024,21.0350914 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Ixtlán del Río",
+    "Nombre del CAC":"IXTLAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Venustiano Carranza Sur, 60, Colonia Centro, 63950",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1453781,21.9495907 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Ruíz",
+    "Nombre del CAC":"RUIZ",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Av. Benito Juarez Pte, 412, Colonia Centro, 63620",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2807693,21.5390816 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"San Blas",
+    "Nombre del CAC":"SAN BLAS",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Emiliano Zapata Sur , 1, Colonia San Blas Centro, 63740",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5878143,21.3313904 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Santa María del Oro",
+    "Nombre del CAC":"SANTAMARIA DEL ORO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Av. Juarez Nte, 24, Pueblo Santa María del Oro, 63830",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2019196,21.8122406 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Santiago Ixcuintla",
+    "Nombre del CAC":"SANTIAGO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle 1ra. Corregidora y Gral. Negrete , S/N, Colonia Santiago Ixcuintla Centro, 63300",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2314148,21.7465115 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Santiago Ixcuintla",
+    "Nombre del CAC":"VILLA HIDALGO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Emiliano Zapata, 25, Colonia Emiliano Zapata, 63550",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4597473,22.3983688 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Tecuala",
+    "Nombre del CAC":"TECUALA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Mina , 150, Colonia Tecuala Centro, 63450",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.8843307,21.5042114 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Tepic",
+    "Nombre del CAC":"INDEPENDENCIA",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida Independencia , 54, Colonia Tepic Centro, 63000",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9076462,21.5109978 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Tepic",
+    "Nombre del CAC":"VERSALLES",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Caoba , 100, Colonia San Juan, 63130",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.286499,21.9398003 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Tuxpan",
+    "Nombre del CAC":"TUXPAN",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Calle Manuel Uribe Sur, 88, Colonia Tuxpan Centro, 63200",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"NO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9004593,21.4453602 ]
+    },
+    "properties": {
+    "Estado":"Nayarit",
+    "Municipio":"Xalisco",
+    "Nombre del CAC":"XALISCO",
+    "Dirección (Calle, Numero, Colonia, Codigo Postal)":"Avenida México , 37, Colonia Xalisco Centro, 63780",
+    "Cuenta con CFEmatico 24hrs (Si -No)":"SI"
+    }
+  }
+]
+}
